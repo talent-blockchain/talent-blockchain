@@ -7,7 +7,7 @@ I work closely with project stack holders and end customers to provide an effect
 Are you looking full time & dedicated blockchain developer to develop a user-friendly high-end functionality based ICO, cryptocurrency or smart contracts web application?
 I will love to engage myself as a full-stack blockchain developer and assist you with innovative and creative strategies.
 
-✔️ Build DeFi Dapp by forking Pancakeswap or Pantherswap on Binance Smart Chain
+✔️ Build DeFi Dapp by forking Pancakeswap or Pantherswap on Binance Smart Chain 
 ✔️ Build DeFi Dapp by forking Uninswap or Sushiswap on Ethereum
 ✔️ Strong knowledge of Solidity or Rust language
 ✔️ Solana Blockchain
